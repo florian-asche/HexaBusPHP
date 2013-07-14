@@ -1,7 +1,7 @@
 <?php
 /*
 *
-* Copyright (c) 2012 by Florian Asche <info@florian-asche.de>
+* Copyright (c) 2013 by Florian Asche <info@florian-asche.de>
 *
 * This program is free software; you can redistribute it and/or
 * modify it under the terms of the GNU General Public License
