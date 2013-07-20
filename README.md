@@ -1,9 +1,9 @@
 HexaBusPHP
 ==========
 
-Hierbei handelt es sich um einen PHP UDP Connector, welcher die Hexabus Plug Geräte ansprechen kann.
+Hierbei handelt es sich um einen PHP UDP Connector, welcher die Hexabus Plug Gerï¿½te ansprechen kann.
 
-Aktuell sind folgende Funktionen möglich:
+Aktuell sind folgende Funktionen mï¿½glich:
 - Auslesen des Status (ON/OFF)
 - Auslesen des Stromverbrauchs (in Watt)
 - Schalten der Steckdose (ON/OFF)
@@ -11,5 +11,5 @@ Aktuell sind folgende Funktionen möglich:
 Mehr Informationen zur Hardware gibt es unter:
 https://github.com/mysmartgrid/hexabus/wiki
 
-Kontakt zu mir bekommt ihr über die Mailinglist:
+Mailinglist:
 https://mams.florian-asche.de/?Mailinglist
