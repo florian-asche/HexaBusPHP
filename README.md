@@ -10,6 +10,3 @@ Aktuell sind folgende Funktionen moeglich:
 
 Mehr Informationen zur Hardware gibt es unter:
 https://github.com/mysmartgrid/hexabus/wiki
-
-Mailinglist:
-https://mams.florian-asche.de/?Mailinglist
